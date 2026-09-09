@@ -21,11 +21,11 @@ Party Size
 +
 Art Cafe
 Wed, Sep 9 · 5:00 PM - 7:00 PM
-Greenpoint
+Market Street
 $15 deposit
 Art Cafe
 Wed, Sep 9 · 5:00 PM - 7:00 PM
-Market Street
+Greenpoint
 $15 deposit
 Art Cafe
 Wed, Sep 9 · 5:30 PM - 7:30 PM
@@ -86,11 +86,11 @@ Greenpoint
 $15 deposit
 Art Cafe
 Fri, Sep 11 · 4:30 PM - 6:30 PM
-Market Street
+Greenpoint
 $15 deposit
 Art Cafe
 Fri, Sep 11 · 4:30 PM - 6:30 PM
-Greenpoint
+Market Street
 $15 deposit
 Art Cafe
 Fri, Sep 11 · 6:45 PM - 8:45 PM
