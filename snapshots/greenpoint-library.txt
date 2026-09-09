@@ -1,14 +1,3 @@
-ts_title: Toddler Time (for walking toddlers)
-ds_event_start_date: 2026-09-09T14:30:00Z
-ds_event_end_date: 2026-09-09T15:00:00Z
-ss_event_location: Greenpoint Library
-ss_event_location_master: Greenpoint Library
-ss_event_age: Birth to Five Years
-sm_event_tags: ["first five years","storytime","toddler time"]
-is_event_registration: 0
-is_event_canceled: 0
-ts_body: Join us for Toddler StoryTime! We will be singing songs, learning rhymes, and reading books together. *Tickets are required and will be distributed on a first come, first served basis at the information desk.* Caregiver and Child must be present to receive a ticket . This is a program for walking toddlers. Infants who are not yet walking should attend Babies and Books!
-
 ts_title: Brooklyn Supports
 ds_event_start_date: 2026-09-09T15:00:00Z
 ds_event_end_date: 2026-09-09T17:00:00Z
@@ -436,3 +425,14 @@ sm_event_tags: ["Cycle Alliance","health and wellness","mental health","teen tim
 is_event_registration: 0
 is_event_canceled: 0
 ts_body: Located in the Teen Zone (Eco Lab 3) on the second floor, Monday-Sunday during branch open hours . There will be variety of period and hygiene products brought to you by community donations while supplies last, zines, and bookmarks. Please speak to a staff member if you're not a teen entering the Teen Zone. This is open to all ages and genders .
+
+ts_title: Greenpoint Bike Clinic Repair and Maintenance Pop-up
+ds_event_start_date: 2026-09-19T17:00:00Z
+ds_event_end_date: 2026-09-19T20:00:00Z
+ss_event_location: Greenpoint, Demonstration Garden
+ss_event_location_master: Greenpoint Library
+ss_event_age: Adults
+sm_event_tags: ["biking and cycling","climate and the environment","DIY"]
+is_event_registration: 0
+is_event_canceled: 0
+ts_body: Join us in the Demonstration Garden for free community-based bicycle repair and maintenance led by Greenpoint Bike Clinic. Community members are invited to bring their bikes for: basic tune-ups flat repairs brake adjustments shifter adjustments The clinic can also help riders identify parts they may need and offer guidance for anyone interested in learning more about maintaining their own bike. All services are free, and open to all! The goal is to provide practical support, empower neighbors to care for their bikes, and encourage healthy, low-carbon transportation in our community. The Greenpoint Bike Clinic is a free, community-based bicycle repair and maintenance pop-up led by local resident Josh Rotbert, who has been involved in bicycle advocacy and repair workshops in Brooklyn for several years. Josh is passionate about making cycling more accessible, practical, and sustainable for everyday transportation, and started the clinic as a way to support neighbors who rely on their bikes to get around the city.
