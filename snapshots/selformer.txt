@@ -5,11 +5,11 @@ CLASSES
 STUDIOS
 ABOUT
 PRICING
+SHOP
 BOOK
 Book Williamsburg
 Book Greenpoint
 My Bookings
-PRICING OLD
 More
 Use tab to navigate through the menu items.
 LOG IN
@@ -165,8 +165,8 @@ CLASSES
 STUDIOS
 ABOUT
 PRICING
+SHOP
 BOOK
-More
 LOG IN
 01 — PRICING
 Start with one class

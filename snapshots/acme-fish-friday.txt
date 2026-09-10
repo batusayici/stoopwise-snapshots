@@ -660,7 +660,7 @@ Unit price
 Quantity
 -
 +
-Add to cart
+Sold out
 Sashimi Style Smoked Salmon (5.2 oz.)
 Cold Smoked
 3 reviews
@@ -1248,7 +1248,6 @@ All Products
 Fish Friday
 Where to Buy
 Merch
-Your privacy choices
 © 2026 Acme Smoked Fish
 Account Login
 Credit Application
