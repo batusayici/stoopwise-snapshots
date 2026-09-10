@@ -1,15 +1,4 @@
 ts_title: Babies & Books (for non-walking babies)
-ds_event_start_date: 2026-09-10T14:30:00Z
-ds_event_end_date: 2026-09-10T15:00:00Z
-ss_event_location: Greenpoint Library
-ss_event_location_master: Greenpoint Library
-ss_event_age: Birth to Five Years
-sm_event_tags: ["babies & books","first five years","storytime"]
-is_event_registration: 0
-is_event_canceled: 1
-ts_body: Join us for baby storytime! We will read some books, sing some songs, do some bounces and tickles and all sorts of fun things with our babies! Tickets are required and will be distributed on a first come, first served basis at the information desk.* Caregiver and Child must be present to receive a ticket . *This is a lapsit storytime for infants who are not yet walking. Walking toddlers should attend the Toddler Time programs on Wednesdays!
-
-ts_title: Babies & Books (for non-walking babies)
 ds_event_start_date: 2026-09-10T15:15:00Z
 ds_event_end_date: 2026-09-10T15:45:00Z
 ss_event_location: Greenpoint Library
@@ -436,3 +425,14 @@ sm_event_tags: ["adult learning","arts and crafts","fiber arts","knitting and cr
 is_event_registration: 0
 is_event_canceled: 0
 ts_body: Join a group of like-minded folks to knit or crochet (or mending, cross-stitch or embroidery!) for two hours of friendship and community. Bring your handwork project to show off, get inspired, or get advice. Lessons are available for beginners in knitting, mending, or crochet. Learning supplies can be provided. All genders welcomed--teens too! **MEETS WEEKLY! If you need a lesson, shoot an email to MRogers@bklynlibrary.org.
+
+ts_title: English Conversation Group
+ds_event_start_date: 2026-09-22T22:00:00Z
+ds_event_end_date: 2026-09-22T23:30:00Z
+ss_event_location: Greenpoint Library
+ss_event_location_master: Greenpoint Library
+ss_event_age: Adults
+sm_event_tags: ["adult learning","english conversation group","Immigrant Services"]
+is_event_registration: 0
+is_event_canceled: 1
+ts_body: Join other adults who are learning to speak English in this weekly English Conversation Group. This is a drop-in program. Patrons will be admitted on a first-come, first-serve basis until the classroom reaches capacity.

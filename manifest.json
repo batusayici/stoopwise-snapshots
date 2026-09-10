@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-09-10T11:19:23.245Z",
+  "fetchedAt": "2026-09-10T14:40:56.497Z",
   "includeMonthly": true,
   "rosterHash": "3495a59f78925856",
-  "productCommit": "85cb5250e1bc7e6243d8f5d579e9f73912df15b8",
-  "fetcher": "home",
+  "productCommit": "6d14f162299a450782bb9f53be7acc5f2b234b79",
+  "fetcher": "github",
   "sourceCount": 91,
-  "errorCount": 2
+  "errorCount": 11
 }
