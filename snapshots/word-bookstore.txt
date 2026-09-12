@@ -71,6 +71,14 @@ Terms of Use
 Trust & Privacy
 Contact
 
+## [FRAME] https://app.chatwoot.com/widget
+Hi 👋
+Can we help you with your membership?
+We are away at the moment
+We will be back as soon as possible
+Start Conversation
+Powered by Chatwoot
+
 ## [DETAIL] https://withfriends.co/word/join
 Discover bookstores
 Pricing
@@ -112,7 +120,7 @@ Special thanks on our https://wordbookstores.com/ (at your option)
 Become a member
 Gift a membership
 Your welcome gift is ready on
-September 12, 2026
+September 13, 2026
 Friend
 $
 10
@@ -130,7 +138,7 @@ Special thanks on our https://wordbookstores.com/ (at your option)
 Become a member
 Gift a membership
 Your welcome gift is ready on
-September 12, 2026
+September 13, 2026
 Family
 $
 20
@@ -150,7 +158,7 @@ Special thanks on our https://wordbookstores.com/ (at your option)
 Become a member
 Gift a membership
 Your welcome gift is ready on
-September 12, 2026
+September 13, 2026
 Champion
 $
 100
@@ -169,7 +177,7 @@ Extra special thanks on our https://wordbookstores.com/ (at your option)
 Become a member
 Gift a membership
 Your welcome gift is ready on
-September 12, 2026
+September 13, 2026
 Words from the WORD community!
 keyboard_arrow_left
 keyboard_arrow_right
@@ -185,3 +193,11 @@ Code of Conduct
 Terms of Use
 Trust & Privacy
 Contact
+
+## [FRAME] https://app.chatwoot.com/widget
+Hi 👋
+Can we help you with your membership?
+We are away at the moment
+We will be back as soon as possible
+Start Conversation
+Powered by Chatwoot
