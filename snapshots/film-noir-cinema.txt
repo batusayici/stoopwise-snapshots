@@ -1,6 +1,6 @@
 title: SNAKE GIRL AND THE WITCH
-startDate: 2026-09-12T21:00:00.234Z
-endDate: 2026-09-12T22:00:00.234Z
+startDate: 2026-09-13T23:00:00.497Z
+endDate: 2026-09-14T00:00:00.497Z
 fullUrl: /program/2026/9/12/hebi-musume
 
 title: FILM NOIR MONDAY
@@ -58,6 +58,11 @@ startDate: 2026-10-30T23:00:00.711Z
 endDate: 2026-10-31T00:00:00.711Z
 fullUrl: /program/2026/9/4/terror-terroir
 
+title: HALLOWEEN SHORTS
+startDate: 2026-10-31T21:00:00.000Z
+endDate: 2026-10-31T22:00:00.000Z
+fullUrl: /program/2026/10/31/halloween-shorts
+
 title: HALLOWEEN PARTY
 startDate: 2026-11-01T01:00:00.560Z
 endDate: 2026-11-01T02:00:00.560Z
@@ -89,7 +94,7 @@ Google Calendar
 ICS
 Film Noir Mondays are dedicated to bring to light lesser known as well as very obscure films that fit Film Noir cinema, including international titles.
 In Noir fashion the movie titles are not revealed beforehand, keeping the audience in total darkness. . .
-Earlier Event: September 12
+Earlier Event: September 13
 SNAKE GIRL AND THE WITCH
 Later Event: September 23
 CULT CINEMA
@@ -254,8 +259,8 @@ ICS
 Welcome to 2026 Halloween Party at Film Noir Cinema.
 The screening of a secret horror film will follow after the reception.
 “DRESS TO IMPRESS”
-Earlier Event: October 30
-TERROR TERROIR
+Earlier Event: October 31
+HALLOWEEN SHORTS
 Back To Top
 Cart ( 0 )
 
@@ -290,6 +295,37 @@ Earlier Event: September 30
 CULT CINEMA
 Later Event: October 29
 SECRETS OF THE DEAD
+Back To Top
+Cart ( 0 )
+
+## [DETAIL] https://www.filmnoircinema.com/program/2026/10/31/halloween-shorts
+HALLOWEEN SHORTS — Film Noir Cinema
+Home
+Calendar
+Welcome
+Program
+Location
+Contact
+Film Noir Cinema
+Home
+Calendar
+Welcome
+Program
+Location
+Contact
+Back to All Events
+HALLOWEEN SHORTS
+Saturday, October 31, 2026
+5:00 PM
+6:00 PM
+17:00
+18:00
+Google Calendar
+ICS
+Earlier Event: October 30
+TERROR TERROIR
+Later Event: October 31
+HALLOWEEN PARTY
 Back To Top
 Cart ( 0 )
 
@@ -342,49 +378,18 @@ Location
 Contact
 Back to All Events
 SNAKE GIRL AND THE WITCH
-Saturday, September 12, 2026
-5:00 PM
-6:00 PM
-17:00
-18:00
+Sunday, September 13, 2026
+7:00 PM
+8:00 PM
+19:00
+20:00
 Google Calendar
 ICS
 JP. 1968
 After years at a Catholic orphanage, a young girl's life takes an unexpected turn when her long-absent father suddenly appears to reclaim her.
 Earlier Event: September 11
-YUMEMIRU
+BLACK BOX
 Later Event: September 14
 FILM NOIR MONDAY
-Back To Top
-Cart ( 0 )
-
-## [DETAIL] https://www.filmnoircinema.com/program/2026/9/25/supershorts-ny-film-festival
-SUPERSHORTS NY FILM FESTIVAL — Film Noir Cinema
-Home
-Calendar
-Welcome
-Program
-Location
-Contact
-Film Noir Cinema
-Home
-Calendar
-Welcome
-Program
-Location
-Contact
-Back to All Events
-SUPERSHORTS NY FILM FESTIVAL
-Friday, September 25, 2026
-6:00 PM
-7:00 PM
-18:00
-19:00
-Google Calendar
-ICS
-Earlier Event: September 24
-FILM CLUB
-Later Event: September 26
-SUPERSHORTS NY FILM FESTIVAL
 Back To Top
 Cart ( 0 )
