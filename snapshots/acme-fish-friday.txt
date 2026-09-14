@@ -416,7 +416,7 @@ Unit price
 Quantity
 -
 +
-Sold out
+Add to cart
 Kippered Salmon (1 lb.)
 Hot Smoked
 Specialty
@@ -433,7 +433,7 @@ Unit price
 Quantity
 -
 +
-Sold out
+Add to cart
 Smoked Trout (1 lb.)
 Hot Smoked
 Specialty
@@ -467,7 +467,7 @@ Unit price
 Quantity
 -
 +
-Sold out
+Add to cart
 Smoked Whitefish Salad (7 oz.)
 Salads
 17 reviews
@@ -1264,7 +1264,6 @@ All Products
 Fish Friday
 Where to Buy
 Merch
-Your privacy choices
 © 2026 Acme Smoked Fish
 Account Login
 Credit Application
