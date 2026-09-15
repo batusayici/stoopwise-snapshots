@@ -349,7 +349,7 @@ Unit price
 Quantity
 -
 +
-Sold out
+Add to cart
 Salmon Candy (12 oz.)
 Hot Smoked
 21 reviews
@@ -1247,7 +1247,6 @@ All Products
 Fish Friday
 Where to Buy
 Merch
-Your privacy choices
 © 2026 Acme Smoked Fish
 Account Login
 Credit Application
